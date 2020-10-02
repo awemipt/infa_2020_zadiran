@@ -1,4 +1,5 @@
-import  math
+#Задиран Б02-922 3 задача
+import math
 import pygame
 from pygame.draw import *
 from pygame.math import *

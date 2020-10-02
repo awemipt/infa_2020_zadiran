@@ -1,3 +1,4 @@
+#Задиран Б02-922 2ая задача
 import  math
 import pygame
 from pygame.draw import *

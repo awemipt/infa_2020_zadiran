@@ -1,4 +1,4 @@
-
+#Задиран Б02-922 1ая задача
 import pygame
 from pygame.draw import *
 
